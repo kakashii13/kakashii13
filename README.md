@@ -8,7 +8,7 @@ I'm a Jr Frontend Developer.
 
 - 📖 I'm learning Typescript.
 - 🌱 I’m practicing with React
-- 📫 How to reach me matiasdominguez_96@hotmail.com
+- 📫 How to reach me dominguezmatiasivan@gmail.com
 
 
 ## Languages and Tools
