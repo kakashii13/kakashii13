@@ -3,12 +3,13 @@
 I'm a Jr Frontend Developer. 
 
 [Linkedin](https://www.linkedin.com/in/matias-dominguez-b9b91a142/)
+[Portfolio](https://matiasportfolio.vercel.app/)
 
 ## Currently
 
 - 📖 I'm learning Typescript.
 - 🌱 I’m practicing with React
-- 📫 How to reach me dominguezmatiasivan@gmail.com
+- 📫 How to reach me mivd96@gmail.com
 
 
 ## Languages and Tools
