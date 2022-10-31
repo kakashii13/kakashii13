@@ -3,6 +3,7 @@
 I'm a Jr Frontend Developer. 
 
 [Linkedin](https://www.linkedin.com/in/matias-dominguez-b9b91a142/)
+
 [Portfolio](https://matiasportfolio.vercel.app/)
 
 ## Currently
