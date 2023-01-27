@@ -1,6 +1,6 @@
 ## Hi, I'm Matias 😄
 
-I'm a Jr Frontend Developer. 
+I'm a Fullstack Developer. 
 
 [Linkedin](https://www.linkedin.com/in/matias-dominguez-b9b91a142/)
 
@@ -8,8 +8,7 @@ I'm a Jr Frontend Developer.
 
 ## Currently
 
-- 📖 I'm learning Typescript.
-- 🌱 I’m practicing with React
+- 📖 I'm learning Typescript and Nodejs.
 - 📫 How to reach me mivd96@gmail.com
 
 
