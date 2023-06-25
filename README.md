@@ -4,7 +4,7 @@ I'm a Fullstack Developer.
 
 [Linkedin](https://www.linkedin.com/in/matias-dominguez-b9b91a142/)
 
-[Portfolio](https://matiasportfolio.vercel.app/)
+[Portfolio](https://matiasdominguezportfolio.vercel.app/)
 
 ## Currently
 
